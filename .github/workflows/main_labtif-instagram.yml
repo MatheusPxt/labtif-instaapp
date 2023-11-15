@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'labtif-instagram'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_51FE1DC2531E4CCFB5EF9F7DBB20782C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_71E8300359544988B1D1A025AFC52F1D }}
