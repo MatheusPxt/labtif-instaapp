@@ -34,7 +34,4 @@ requests==2.31.0
 urllib3==2.0.7
 virtualenv==20.24.6
 Werkzeug==3.0.1
-<<<<<<< HEAD
-=======
 instagram-private-api==1.6.0.0
->>>>>>> f55159cf0ecd650180c607ffe3cca2c7520a4dfb
